@@ -1,0 +1,63 @@
+/* style.css */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body {
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    font-family: "Poppins", sans-serif;
+    }
+    
+    .card {
+    max-width: 33rem;
+    background: #fff;
+    margin: 0 1rem;
+    padding: 1rem;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    border-radius: 0.5rem;
+
+    margin-top: 250px;
+    }
+    
+    .star {
+    font-size: 10vh;
+    cursor: pointer;
+    }
+    
+    .one {
+    color:#ffc525 
+    ;
+    }
+    
+    .two {
+    color: #800000
+ 
+    ;
+    }
+    
+    .three {
+    color:#808000
+
+    ;
+    }
+    
+    .four {
+    color:#87a96b 
+;
+    }
+    
+    .five {
+    color:  #581845 
+ 
+    ;
+    }
+    
